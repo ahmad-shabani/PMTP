@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use PMTP in academic work, please cite the original PMTP paper."
+title: "PMTP: A MAX-SAT-Based Hardware Trojan Detection Flow Using Propagation of Maximum Transition Probability"
+authors:
+  - family-names: Shabani
+    given-names: Ahmad
+  - family-names: Alizadeh
+    given-names: Bijan
+preferred-citation:
+  type: article
+  title: "PMTP: A MAX-SAT-Based Approach to Detect Hardware Trojan Using Propagation of Maximum Transition Probability"
+  authors:
+    - family-names: Shabani
+      given-names: Ahmad
+    - family-names: Alizadeh
+      given-names: Bijan
+  journal: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  volume: 39
+  issue: 1
+  start: 25
+  end: 33
+  year: 2020
+  doi: "10.1109/TCAD.2018.2889663"

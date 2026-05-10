@@ -1,0 +1,6 @@
+Design_Name=Design.v 				// circuit netlist name in gate-level
+Test_Bench= TB_Design.v 			// test-bench name of circuit netlist
+Probability_Threshold= 0.003			// Transition probability value
+NumOfTest=1000					// number of test patterns
+CycleTime=  5					// Cycle time in ns
+
